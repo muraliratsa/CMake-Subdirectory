@@ -1,24 +1,6 @@
 # CMake - Project Directory Structure
 
-		
-		-----[dir]-bulid--->(build system files)
-		|
-		|		       |---CMakeLists.txt
-		|----[dir]-subDir-A---->
-		|		       |---a.cpp
-[dir] -----------
-cmake		|		       |---CMakeLists.txt
-subrectory	|----[dir]-subDirB---->
-		|		       |---b.cpp
-		|
-		-----CmakeLists.txt
-		|
-		|
-		|----main.cpp
-		|
-		|
-		-----(other header files)
-
+![alt text](https://github.com/muraliratsa/CMake-Subdirectory/blob/master/images/project-directory-structure.png?raw=true)
 
 ## OUTPUT:
 
