@@ -1,0 +1,9 @@
+/home/murali/Desktop/cmake_subdirectory/build/CMakeFiles/run.dir
+/home/murali/Desktop/cmake_subdirectory/build/CMakeFiles/edit_cache.dir
+/home/murali/Desktop/cmake_subdirectory/build/CMakeFiles/rebuild_cache.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_a/CMakeFiles/lib_a.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_a/CMakeFiles/edit_cache.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_a/CMakeFiles/rebuild_cache.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_b/CMakeFiles/lib_b.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_b/CMakeFiles/edit_cache.dir
+/home/murali/Desktop/cmake_subdirectory/build/sub_dir_b/CMakeFiles/rebuild_cache.dir
