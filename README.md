@@ -1,6 +1,6 @@
 # CMake - Project Directory Structure
 
-![alt text](https://github.com/muraliratsa/CMake-Subdirectory/blob/master/images/project-directory-structure.jpg?raw=true)
+![directory-structure](https://github.com/muraliratsa/CMake-Subdirectory/blob/master/images/project-directory-structure.jpg)
 
 ## OUTPUT:
 
