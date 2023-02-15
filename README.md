@@ -6,3 +6,5 @@
 
 This file is in subdirectory a. <br>
 This file is in subdirectory b.
+
+![output](images/output.jpg)
